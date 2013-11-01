@@ -1,0 +1,34 @@
+/* 
+    Document   : main
+    Created on : Sep 22, 2013, 7:31:24 PM
+    Author     : Spencer Alderman
+    Description:
+        General layout
+*/
+
+.textbox {
+    display: block;
+    color: #ffffff;
+    padding: 5px 10px;
+    position: absolute;
+    border-radius: 5px;
+    border: 1px solid #777777;
+    background-color: #000000;
+    opacity: 0.5;
+}
+
+#3darea {
+    position: relative;
+    width: auto;
+    height: auto;
+}
+
+#content {
+    font-size: 9pt;
+    color: #777;
+}
+
+#3darea {
+    width: 100%;
+    height: 100%;
+}
